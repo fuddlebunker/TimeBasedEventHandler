@@ -38,10 +38,6 @@ class MY_OpenClose extends WP_Widget {
 		?>
 		
 		
-		<div style= "font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 18px; padding-top: 15px; color: #FFE700; text-align: center; width: 315px; height: 165px; background-image: url('http://www.gardensatstillmeadows.com/wp-content/uploads/2015/03/hours_bg1.jpg');">
-    		<p style= "font-size: 16px;"> 7am - Noon  <span style=" font-variant: small-caps; font-size: 20px; color: #BAEF50; line-height: 18px;">The Spa</span> <span style= "color: white;"><?php echo $spaOC ?></span></p>
-    		<p style= "font-size: 16px;"> Noon - 5pm  <span style=" font-variant: small-caps; font-size: 20px; color: #BAEF50; line-height: 18px;">The Gardens</span> <span style= "color: white;"><?php echo $gardenOC ?></span></p>
-		</div>
 		
 		<?php
 	}// function widget
